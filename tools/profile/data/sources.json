@@ -2,8 +2,8 @@
   "github": {
     "username": "vjrjunior",
     "status": "ok",
-    "as_of": "2026-11-10",
-    "checked_at": "2026-11-10",
+    "as_of": "2026-11-11",
+    "checked_at": "2026-11-11",
     "data": {
       "created_at": "2015-04-09T14:54:50Z",
       "followers": 6,
@@ -18,28 +18,25 @@
         "vjrjunior/vjrjunior-herdr": 0
       },
       "languages": {
-        "TypeScript": 461011,
-        "JavaScript": 398354,
+        "TypeScript": 481355,
+        "JavaScript": 404782,
         "SCSS": 354340,
         "CSS": 296438,
         "Python": 92377,
         "PHP": 57547,
         "HTML": 4407,
+        "Shell": 3199,
         "Ruby": 161,
         "Hack": 62
       },
       "year": 2026,
-      "contributions_year": 1269,
-      "contributions_all": 2908,
-      "commits_year": 113,
-      "commits_all": 162,
-      "streak_current": 3,
+      "contributions_year": 1284,
+      "contributions_all": 2923,
+      "commits_year": 115,
+      "commits_all": 164,
+      "streak_current": 4,
       "streak_longest": 19,
       "calendar": [
-        [
-          "2025-11-11",
-          0
-        ],
         [
           "2025-11-12",
           0
@@ -1494,6 +1491,10 @@
         ],
         [
           "2026-11-10",
+          15
+        ],
+        [
+          "2026-11-11",
           3
         ]
       ],
