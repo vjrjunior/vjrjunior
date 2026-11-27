@@ -2,8 +2,8 @@
   "github": {
     "username": "vjrjunior",
     "status": "ok",
-    "as_of": "2026-11-26",
-    "checked_at": "2026-11-26",
+    "as_of": "2026-11-27",
+    "checked_at": "2026-11-27",
     "data": {
       "created_at": "2015-04-09T14:54:50Z",
       "followers": 6,
@@ -18,29 +18,25 @@
         "vjrjunior/vjrjunior": 0
       },
       "languages": {
-        "JavaScript": 585615,
-        "TypeScript": 560466,
+        "JavaScript": 589136,
+        "TypeScript": 546588,
         "SCSS": 354340,
         "CSS": 296438,
         "Python": 92377,
         "PHP": 57547,
         "HTML": 4407,
-        "Shell": 3177,
+        "Shell": 3140,
         "Ruby": 161,
         "Hack": 62
       },
       "year": 2026,
-      "contributions_year": 1376,
-      "contributions_all": 3015,
-      "commits_year": 153,
-      "commits_all": 202,
-      "streak_current": 5,
+      "contributions_year": 1429,
+      "contributions_all": 3068,
+      "commits_year": 186,
+      "commits_all": 235,
+      "streak_current": 6,
       "streak_longest": 19,
       "calendar": [
-        [
-          "2025-11-27",
-          1
-        ],
         [
           "2025-11-28",
           1
@@ -1447,11 +1443,11 @@
         ],
         [
           "2026-11-14",
-          3
+          5
         ],
         [
           "2026-11-15",
-          2
+          3
         ],
         [
           "2026-11-16",
@@ -1459,7 +1455,7 @@
         ],
         [
           "2026-11-17",
-          20
+          21
         ],
         [
           "2026-11-18",
@@ -1467,7 +1463,7 @@
         ],
         [
           "2026-11-19",
-          5
+          7
         ],
         [
           "2026-11-20",
@@ -1495,7 +1491,11 @@
         ],
         [
           "2026-11-26",
-          9
+          20
+        ],
+        [
+          "2026-11-27",
+          36
         ]
       ],
       "repository_scope": "public owned non-fork repositories",
